@@ -24,8 +24,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   A place for an average 20 something year old to express his thoughts and opinions. 
   A place for a thinker to express his creations, good or bad, useful to some whilst useless to others.
   A home to my ideas, unfiltered.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/blog" # the subpath of your site, e.g. /blog
+url: "deesims.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: deesims
 github_username:  deesims
 
