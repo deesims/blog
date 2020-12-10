@@ -45,8 +45,8 @@ Wow dude, manipulating words is so cool and impressive. No calculator can do tha
 
 You know how sometimes you're broke and your bank account is in overdraft and your parents sent money to you.
 
-	-39.00 + 50
-	11
+	-39.00 + 50.01
+	11.01
 
 Now I can go buy some Red Bull so I can code till 4 A.M
 
