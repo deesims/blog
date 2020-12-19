@@ -19,7 +19,9 @@ I got accepted into University of Ottawa in 2015. I was placed in an Honours pro
 
 My first year at university was definetely challenging to say the least. You are in some ways, being tested on sheer willingness to stay, rather than the intellectual creativity that you might have. This was my first concern about academia, that it scares people into never doing it again. Finding out the truth to most people is actually a fun process, but when hit with rules and regulations and rushed deadlines, becomes a dull one. 
 
-![Data Structures](https://www.atnyla.com/library/images-tutorials/various-data-types.png)
+<p align="center">
+  <img height="60%" width="60%" src="https://www.atnyla.com/library/images-tutorials/various-data-types.png">
+</p>
 
 Nonetheless, first year is a time of exposure. You are introduced to a more formal approach to Linear Algebra and Calculus including proofs, you begin studying Python and Java, you start to hear terms like 'object-oriented programming', 'data types and structures', 'ints, strings and bools'. You jump into fundamentals of set theory. You start to build logical circuits for a small processor. You start to see code, simple yet effective code. Clean code, solutions to problems that are as efficient as humans can make it. My expectations of this year were shattered, I thought I would learn 10 new programming languages that we all love and know, that I would learn how to use software that no one knows how to use, but the road turned out to be quite different. I saw myself as a coder, and that was a mistake. This is not a degree for the practical go-people, this is a theoretical field, a mix of mathematical proofs, linguistics and engineering.
 
