@@ -27,12 +27,17 @@ Nonetheless, first year is a time of exposure. You are introduced to a more form
 
 My second year, was probably the one I learnt most in. I'm not sure if it was due to my adaptation or if the material has become more specialized, probably both. You learn sorting algorithms, graph theory and how to conduct algorithmic analysis using Big-O notation. You learn more about what constitutes a programming language and what is a programming paradigm, rather than learning some syntax and a few examples. 
 
-![CPU](https://www.learncomputerscienceonline.com/wp-content/uploads/2019/09/Microprocessor-CPU-Processor.jpg)
+
+<p align="center">
+  <img src="https://www.learncomputerscienceonline.com/wp-content/uploads/2019/09/Microprocessor-CPU-Processor.jpg">
+</p>
 
 You learn the basics of CPU, and its smaller parts like ALU and CU which I found deeply revealing. You learn about registers and addresses, how to encode and decode information, how a sequence of bits can transfer to a display of pixels, etc. This was also the year, in which proofs are introduced at a deeper level. Mathematical proofs are not joke man, and if I ever had to think about something, it was proving a true statement that I know is true from childhood, but cannot prove for the life of me. Simple things like (2 * n) will you give an even number, sounds pretty trivial, but the proof isn't so. The inductive step of +1 was not trivial. Lots of maths go into computing, hidden from us, for usability reasons. Algorithms and data structures is the most important thing to learn if you want to go into the job market. More importantly, time and space complexity of algorithms is even more important. 
 
 
-![BigOhAnalysis](https://media.springernature.com/original/springer-static/image/chp%3A10.1007%2F978-1-4842-3988-9_1/MediaObjects/465726_1_En_1_Fig1_HTML.jpg)
+<p align="center">
+  <img height="50%" width="50%" src="https://media.springernature.com/original/springer-static/image/chp%3A10.1007%2F978-1-4842-3988-9_1/MediaObjects/465726_1_En_1_Fig1_HTML.jpg">
+</p>
 
 Doing Big-Oh analysis will help you decide which algorithm performs more steps, deciding which algorithm we should use to tackle on a given problem. We want to be correct in our application, but we also want to be fast and light.
 
