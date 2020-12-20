@@ -31,6 +31,8 @@ github_username:  deesims
 
 # Build settings
 theme: minima
+minima: 
+  skin: dark
 plugins:
   - jekyll-feed
 
@@ -53,3 +55,5 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+google_analytics: UA-CQJ0J8FJN3-G
