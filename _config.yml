@@ -55,3 +55,6 @@ plugins:
 #   - vendor/ruby/
 
 google_analytics: G-CQJ0J8FJN3
+
+minima:
+  skin: dark
